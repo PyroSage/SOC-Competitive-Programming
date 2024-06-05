@@ -1,5 +1,5 @@
 Week-1
--[] To My Critics: https://codeforces.com/contest/1850/problem/A
+[]- To My Critics: https://codeforces.com/contest/1850/problem/A
 - Rudolph and Cut the Rope: https://codeforces.com/contest/1846/problem/A
 - 1D Eraser: https://codeforces.com/problemset/problem/1873/D
 - Number Spiral: https://cses.fi/problemset/task/1071
