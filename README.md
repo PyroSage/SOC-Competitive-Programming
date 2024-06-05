@@ -1,4 +1,4 @@
-Week-1
+# Week-1
 - To My Critics: https://codeforces.com/contest/1850/problem/A  [done]
 - Rudolph and Cut the Rope: https://codeforces.com/contest/1846/problem/A  [done]
 - 1D Eraser: https://codeforces.com/problemset/problem/1873/D  [done]
