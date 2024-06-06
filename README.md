@@ -1,3 +1,6 @@
+# Links
+- Link to the doc - https://docs.google.com/document/d/1E4a3HTwJ2j9AjfC8zTXIyW2t7j9GSsJECy220nAVd1Q/edit
+- Link to Week-1 - https://cake-yumberry-e68.notion.site/Introduction-to-Competitive-Programming-d3297b18bb3940b298a63816e9161e3c
 # Week-1
 - To My Critics: https://codeforces.com/contest/1850/problem/A  [done]
 - Rudolph and Cut the Rope: https://codeforces.com/contest/1846/problem/A  [done]
