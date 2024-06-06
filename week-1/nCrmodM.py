@@ -5,7 +5,7 @@ class solution:
             if b & 1:
                 ans = (ans * a) % mod 
             a = (a * a) % mod 
-            b = b // 2
+            b >>= 1
         return ans
     def fermat(self, n, r, p):
         p = 1000003
