@@ -13,4 +13,4 @@
 - SPOJ HISTOGRA: https://www.spoj.com/problems/HISTOGRA/
 - 3Sum: https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/776/  [done]
 - Group Anagrams: https://leetcode.com/problems/group-anagrams/description/  [done]
-- nCr mod M: https://www.geeksforgeeks.org/problems/ncr-mod-m-part-10038/1?page=1&category=Modular%20Arithmetic&sortBy=submissions
+- nCr mod M: https://www.geeksforgeeks.org/problems/ncr-mod-m-part-10038/1?page=1&category=Modular%20Arithmetic&sortBy=submissions [done]
