@@ -9,7 +9,7 @@
 - [done] SPOJ TDPrimes: https://www.spoj.com/problems/TDPRIMES/ 
 - [done] CSES Exponentiation: https://cses.fi/problemset/task/1095 
 - CSES Counting Divisors: https://cses.fi/problemset/task/1713
-- Find (a^b)%m: https://www.geeksforgeeks.org/problems/find-abm3912/1?page=2&category=Modular%20Arithmetic&sortBy=submissions
+- [done] Find (a^b)%m: https://www.geeksforgeeks.org/problems/find-abm3912/1?page=2&category=Modular%20Arithmetic&sortBy=submissions
 - ETF - Euler Totient Function: https://www.spoj.com/problems/ETF/
 - Ebony and Ivory: https://codeforces.com/contest/633/problem/A
 - [done] Get AC in one go: https://www.codechef.com/problems/COPR16G  
