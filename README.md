@@ -18,7 +18,7 @@
 - [done] Group Anagrams: https://leetcode.com/problems/group-anagrams/description/  
 - [done] nCr mod M: https://www.geeksforgeeks.org/problems/ncr-mod-m-part-10038/1?page=1&category=Modular%20Arithmetic&sortBy=submissions 
 # Week-2
-- [] Find first and last element in sorted array: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
+- [done] Find first and last element in sorted array: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 - [] Search in rotated sorted array: https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 - [] Problem on Strings: https://codeforces.com/problemset/problem/165/C
 - [] Sum of Four Values: https://cses.fi/problemset/task/1642
