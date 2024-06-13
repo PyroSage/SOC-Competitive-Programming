@@ -20,7 +20,7 @@
 # Week-2
 - [done] Find first and last element in sorted array: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 - [done] Search in rotated sorted array: https://leetcode.com/problems/search-in-rotated-sorted-array/description/
-- [] Problem on Strings: https://codeforces.com/problemset/problem/165/C
+- [done] Problem on Strings: https://codeforces.com/problemset/problem/165/C
 - [] Sum of Four Values: https://cses.fi/problemset/task/1642
 - [] Subarray Sums II: https://cses.fi/problemset/task/1661
 - [] Subarray Distinct Values: https://cses.fi/problemset/task/2428
