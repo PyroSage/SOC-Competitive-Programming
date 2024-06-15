@@ -23,7 +23,7 @@
 - [done] Problem on Strings: https://codeforces.com/problemset/problem/165/C
 - [done] Sum of Four Values: https://cses.fi/problemset/task/1642
 - [done] Subarray Sums II: https://cses.fi/problemset/task/1661
-- [] Subarray Distinct Values: https://cses.fi/problemset/task/2428
+- [done] Subarray Distinct Values: https://cses.fi/problemset/task/2428
 - [] Sliding Window Median: ****https://cses.fi/problemset/task/1076/
 - [] Frodo and pillows: https://codeforces.com/problemset/problem/760/B
 - [] Jumping Through Segments: https://codeforces.com/contest/1907/problem/D
