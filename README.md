@@ -10,10 +10,10 @@
 - [done] CSES Exponentiation: https://cses.fi/problemset/task/1095 
 - [done] CSES Counting Divisors: https://cses.fi/problemset/task/1713
 - [done] Find (a^b)%m: https://www.geeksforgeeks.org/problems/find-abm3912/1?page=2&category=Modular%20Arithmetic&sortBy=submissions
-- [] ETF - Euler Totient Function: https://www.spoj.com/problems/ETF/
+- [done] ETF - Euler Totient Function: https://www.spoj.com/problems/ETF/
 - [] Ebony and Ivory: https://codeforces.com/contest/633/problem/A
 - [done] Get AC in one go: https://www.codechef.com/problems/COPR16G  
-- SPOJ HISTOGRA: https://www.spoj.com/problems/HISTOGRA/
+- [] SPOJ HISTOGRA: https://www.spoj.com/problems/HISTOGRA/
 - [done] 3Sum: https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/776/  
 - [done] Group Anagrams: https://leetcode.com/problems/group-anagrams/description/  
 - [done] nCr mod M: https://www.geeksforgeeks.org/problems/ncr-mod-m-part-10038/1?page=1&category=Modular%20Arithmetic&sortBy=submissions 
