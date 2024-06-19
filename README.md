@@ -36,7 +36,7 @@
 
 # Week-3
 ## Recursions Basics
-- [] Climbing Stairs: https://leetcode.com/problems/climbing-stairs/ 
+- [done] Climbing Stairs: https://leetcode.com/problems/climbing-stairs/ 
 - [] Combinations: https://leetcode.com/problems/combinations/
 - [] Permutations: https://leetcode.com/problems/permutations/
 ## Recursion Problems
