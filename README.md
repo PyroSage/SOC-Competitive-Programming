@@ -33,3 +33,35 @@
 - [] Watering an Array: https://codeforces.com/problemset/problem/1917/C
 - [] Suspicious logarithms: https://codeforces.com/problemset/problem/1891/D
 - [] Replace With Product: https://codeforces.com/problemset/problem/1872/G
+
+# Week-3
+## Recursions Basics
+- [] Climbing Stairs: https://leetcode.com/problems/climbing-stairs/ 
+- [] Combinations: https://leetcode.com/problems/combinations/
+- [] Permutations: https://leetcode.com/problems/permutations/
+## Recursion Problems
+- [] Permutation Transformation: https://codeforces.com/problemset/problem/1490/D
+- [] Masha and a Beautiful Tree: https://codeforces.com/problemset/problem/1741/D
+- [] a-Good String: https://codeforces.com/problemset/problem/1385/D
+- [] Creative Snap: https://codeforces.com/problemset/problem/1111/C
+- [] Equivalent Strings: https://codeforces.com/problemset/problem/559/B
+- [] Stone Removing Game: https://www.spoj.com/problems/REMGAME/
+## Graph Problems
+- [] SPIKES: https://www.spoj.com/problems/SPIKES/
+- [] Ada and Island: https://www.spoj.com/problems/ADASEA/
+- [] Ada and Cycle: https://www.spoj.com/problems/ADACYCLE/
+- [] Mice and Maze: https://www.spoj.com/problems/MICEMAZE/
+- [] Monsters: https://cses.fi/problemset/task/1194
+- [] Shortest Paths II: https://cses.fi/problemset/task/1672
+- [] Cycle Finding: https://cses.fi/problemset/task/1197
+- [] Tree Game: https://www.spoj.com/problems/CT23E/
+- [] Round Trip II: https://cses.fi/problemset/task/1678/
+- [] Course Schedule: https://cses.fi/problemset/task/1679
+- [] BUGLIFE: https://www.spoj.com/problems/BUGLIFE/
+- [] Mail Delivery: https://cses.fi/problemset/task/1691
+## HOTS
+- [] Mad City: https://codeforces.com/problemset/problem/1873/H
+- [] Cyclic Operations: https://codeforces.com/problemset/problem/1867/D
+- [] Candy Party (Easy Version): https://codeforces.com/problemset/problem/1868/B1
+- [] Regex matching: https://leetcode.com/problems/regular-expression-matching/description/
+- [] SEQ - Recursive Sequence: https://www.spoj.com/problems/SEQ/
