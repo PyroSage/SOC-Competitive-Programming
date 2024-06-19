@@ -38,7 +38,7 @@
 ## Recursions Basics
 - [done] Climbing Stairs: https://leetcode.com/problems/climbing-stairs/ 
 - [done] Combinations: https://leetcode.com/problems/combinations/
-- [] Permutations: https://leetcode.com/problems/permutations/
+- [done] Permutations: https://leetcode.com/problems/permutations/
 ## Recursion Problems
 - [] Permutation Transformation: https://codeforces.com/problemset/problem/1490/D
 - [] Masha and a Beautiful Tree: https://codeforces.com/problemset/problem/1741/D
