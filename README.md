@@ -47,7 +47,7 @@
 - [] Equivalent Strings: https://codeforces.com/problemset/problem/559/B
 - [] Stone Removing Game: https://www.spoj.com/problems/REMGAME/
 ## Graph Problems
-- [] SPIKES: https://www.spoj.com/problems/SPIKES/
+- [done] SPIKES: https://www.spoj.com/problems/SPIKES/
 - [] Ada and Island: https://www.spoj.com/problems/ADASEA/
 - [] Ada and Cycle: https://www.spoj.com/problems/ADACYCLE/
 - [] Mice and Maze: https://www.spoj.com/problems/MICEMAZE/
