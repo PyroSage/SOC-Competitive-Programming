@@ -41,7 +41,7 @@
 - [done] Permutations: https://leetcode.com/problems/permutations/
 ## Recursion Problems
 - [done] Permutation Transformation: https://codeforces.com/problemset/problem/1490/D
-- [] Masha and a Beautiful Tree: https://codeforces.com/problemset/problem/1741/D
+- [done] Masha and a Beautiful Tree: https://codeforces.com/problemset/problem/1741/D
 - [] a-Good String: https://codeforces.com/problemset/problem/1385/D
 - [] Creative Snap: https://codeforces.com/problemset/problem/1111/C
 - [] Equivalent Strings: https://codeforces.com/problemset/problem/559/B
