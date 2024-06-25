@@ -49,10 +49,10 @@
 ## Graph Problems
 - [done] SPIKES: https://www.spoj.com/problems/SPIKES/
 - [done] Ada and Island: https://www.spoj.com/problems/ADASEA/
-- [] Ada and Cycle: https://www.spoj.com/problems/ADACYCLE/
+- [done] Ada and Cycle: https://www.spoj.com/problems/ADACYCLE/
 - [] Mice and Maze: https://www.spoj.com/problems/MICEMAZE/
 - [] Monsters: https://cses.fi/problemset/task/1194
-- [] Shortest Paths II: https://cses.fi/problemset/task/1672
+- [done] Shortest Paths II: https://cses.fi/problemset/task/1672
 - [] Cycle Finding: https://cses.fi/problemset/task/1197
 - [] Tree Game: https://www.spoj.com/problems/CT23E/
 - [] Round Trip II: https://cses.fi/problemset/task/1678/
