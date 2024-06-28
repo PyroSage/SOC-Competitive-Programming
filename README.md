@@ -17,6 +17,7 @@
 - [done] 3Sum: https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/776/  
 - [done] Group Anagrams: https://leetcode.com/problems/group-anagrams/description/  
 - [done] nCr mod M: https://www.geeksforgeeks.org/problems/ncr-mod-m-part-10038/1?page=1&category=Modular%20Arithmetic&sortBy=submissions 
+
 # Week-2
 - [done] Find first and last element in sorted array: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 - [done] Search in rotated sorted array: https://leetcode.com/problems/search-in-rotated-sorted-array/description/
@@ -53,7 +54,7 @@
 - [done] Mice and Maze: https://www.spoj.com/problems/MICEMAZE/
 - [done] Monsters: https://cses.fi/problemset/task/1194
 - [done] Shortest Paths II: https://cses.fi/problemset/task/1672
-- [] Cycle Finding: https://cses.fi/problemset/task/1197
+- [done] Cycle Finding: https://cses.fi/problemset/task/1197
 - [] Tree Game: https://www.spoj.com/problems/CT23E/
 - [] Round Trip II: https://cses.fi/problemset/task/1678/
 - [] Course Schedule: https://cses.fi/problemset/task/1679
