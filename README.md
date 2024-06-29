@@ -56,8 +56,8 @@
 - [done] Shortest Paths II: https://cses.fi/problemset/task/1672
 - [done] Cycle Finding: https://cses.fi/problemset/task/1197
 - [] Tree Game: https://www.spoj.com/problems/CT23E/
-- [] Round Trip II: https://cses.fi/problemset/task/1678/
-- [] Course Schedule: https://cses.fi/problemset/task/1679
+- [done] Round Trip II: https://cses.fi/problemset/task/1678/
+- [done] Course Schedule: https://cses.fi/problemset/task/1679
 - [] BUGLIFE: https://www.spoj.com/problems/BUGLIFE/
 - [] Mail Delivery: https://cses.fi/problemset/task/1691
 ## HOTS
