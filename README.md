@@ -45,7 +45,7 @@
 - [done] Masha and a Beautiful Tree: https://codeforces.com/problemset/problem/1741/D
 - [done] a-Good String: https://codeforces.com/problemset/problem/1385/D
 - [done] Creative Snap: https://codeforces.com/problemset/problem/1111/C
-- [] Equivalent Strings: https://codeforces.com/problemset/problem/559/B
+- [done] Equivalent Strings: https://codeforces.com/problemset/problem/559/B
 - [] Stone Removing Game: https://www.spoj.com/problems/REMGAME/
 ## Graph Problems
 - [done] SPIKES: https://www.spoj.com/problems/SPIKES/
@@ -59,7 +59,7 @@
 - [done] Round Trip II: https://cses.fi/problemset/task/1678/
 - [done] Course Schedule: https://cses.fi/problemset/task/1679
 - [] BUGLIFE: https://www.spoj.com/problems/BUGLIFE/
-- [] Mail Delivery: https://cses.fi/problemset/task/1691
+- [done] Mail Delivery: https://cses.fi/problemset/task/1691
 ## HOTS
 - [] Mad City: https://codeforces.com/problemset/problem/1873/H
 - [] Cyclic Operations: https://codeforces.com/problemset/problem/1867/D
