@@ -68,3 +68,31 @@
 - [] SEQ - Recursive Sequence: https://www.spoj.com/problems/SEQ/
 
 # Week-4
+## Dynamic Programming Basics
+- [done] Pascal’s Triangle: https://leetcode.com/problems/pascals-triangle/description
+- [] Maximal Square: https://leetcode.com/problems/maximal-square/description
+- [] Min Cost Climbing Stairs: https://leetcode.com/problems/min-cost-climbing-stairs/description 
+## Getting Started
+- [] Basil’s Garden: https://codeforces.com/problemset/problem/1987/C
+- [] Long Jumps: https://codeforces.com/problemset/problem/1472/C
+- [] Coin Combinations II: https://cses.fi/problemset/task/1636
+- [] Increasing Subsequence: https://cses.fi/problemset/task/1145
+- [] LARMY: https://www.spoj.com/problems/LARMY/
+- [] Book Shop II: https://cses.fi/problemset/task/1159
+## Intermediate Practice
+- [] XOR Sequences: https://codeforces.com/problemset/problem/1979/B
+- [] Colourful Table: https://codeforces.com/problemset/problem/1870/C
+- [] Make it Alternating: https://codeforces.com/problemset/problem/1879/C
+- [] Counting Towers: https://cses.fi/problemset/task/2413
+- [] Grid Paths: https://cses.fi/problemset/task/1638
+- [] How Does the Rook Move?: https://codeforces.com/problemset/problem/1957/C
+- [] Elevator Rides: https://cses.fi/problemset/task/1653
+- [] Count Tilings: https://cses.fi/problemset/task/2181
+- [] Breaking String: https://www.spoj.com/problems/BRKSTRNG/
+- [] Maximum Sum on Even Positions: https://codeforces.com/problemset/problem/1373/D
+## HOTS
+- [] Nene’s Magical Matrix: https://codeforces.com/problemset/problem/1956/C
+- [] Reverse Madness: https://codeforces.com/problemset/problem/1878/D
+- [] Jellyfish and Mex: https://codeforces.com/problemset/problem/1875/D
+- [] Prefix Purchase: https://codeforces.com/problemset/problem/1870/D
+- [] Counting Rhyme: https://codeforces.com/problemset/problem/1884/D
